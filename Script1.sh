@@ -4,7 +4,6 @@ echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
-echo "This is Amit's new line"
 echo "This is Rupali's new line"
 
 
