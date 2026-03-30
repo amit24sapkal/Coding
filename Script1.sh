@@ -7,6 +7,7 @@ echo "I am from Devops and cloud team"
 echo "This is Rupali's new line"
 echo "This line is from EC2"
 echo " This line from Rupali"
+echo "this is Amit"
 
 
 
