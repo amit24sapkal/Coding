@@ -9,7 +9,7 @@ echo "This line is from EC2"
 echo " This line from Rupali"
 echo "this is Amit"
 echo "this is Shreya"
-echo "we are happy Family Forever"
+echo "we are happy Family Ever & Forever"
 
 
 
