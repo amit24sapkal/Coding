@@ -8,4 +8,11 @@ echo "This is Rupali's new line"
 echo "This is 2nd new line"
 echo "This is 3nd new line"
 
+echo "This line is from EC2"
+echo " This line from Rupali"
+echo "this is Amit"
+echo "this is Shreya"
+echo "we are happy Family Ever & Forever"
+echo "This is 13th line"
+echo "This is 14th line"
 
